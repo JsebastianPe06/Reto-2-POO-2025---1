@@ -1,3 +1,7 @@
+# Diagrama UML
+Este diagrama simula una página de registro de notas de una intitución         
+educativa cualquiera, relacionando los usuarios, las notas y grupos.
+
 ```mermaid
   classDiagram
     class Usuario{
